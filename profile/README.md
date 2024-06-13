@@ -10,15 +10,25 @@
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br /> 
  	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  	<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-	<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-    	<img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
+    <br />    
+	<img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=Amazon ec2&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge"/>
 </p>
 
 
 <p align="center">
 	<h3 align="center">
-		 사용자 기호 맞춤 주류 추천 서비스<br>Sunjoo(Bejuryu v2)
-	</h3>	
+		 사용자 기호 맞춤 주류 추천 서비스<br>Sunjoo(version 2)
+	</h3>
+     <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu?tab=readme-ov-file"><h3> 🥂Bejuryu(version 1) repository🥂</h3></a>
+
 </p>
 
 ## 🍷 Contributors 🍷
