@@ -1,4 +1,4 @@
-<h1 align="center">SSAFY 계절학기 Sunjoo Project</h1>
+<h1 align="center">Sunjoo Project</h1>
 <p align="center">
 	<img src="image/icon.png"/ width="50%">
 </p>	   
@@ -25,9 +25,12 @@
 
 <p align="center">
 	<h3 align="center">
-		 사용자 기호 맞춤 주류 추천 서비스<br>Sunjoo(version 2)
-	</h3>
-     <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu?tab=readme-ov-file"><h3> 🥂Bejuryu(version 1) repository🥂</h3></a>
+    사용자 기호 맞춤 주류 추천 서비스<br>Sunjoo(version 2)
+</h3>
+
+<p align="center">
+    <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu?tab=readme-ov-file">🥂Bejuryu(version 1) repository🥂</a>
+</p>
 
 </p>
 
