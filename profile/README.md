@@ -1,10 +1,9 @@
-<h1 align="center">Sunjoo Project</h1>
+<h1 align="center">🍺 <strong>Sunjoo Project</strong> 🍺</h1>
 <p align="center">
 	<img src="image/icon.png"/ width="50%">
 </p>	   
 
 <p align="center">
-    	<img src="https://img.shields.io/badge/Kotlin-1.8.10-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br /> 
@@ -18,6 +17,8 @@
     <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=Amazon ec2&logoColor=white">
     <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
     <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+    <br />
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
     <br />
     <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge"/>
 </p>
