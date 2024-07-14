@@ -1,17 +1,36 @@
 # Sunjoo Project 🍺
-<p align="center">
-	<img src="image/icon.png"/ width="50%">
-</p>	 
+<div align="center">
+  <img src="image/icon.png"/ width="50%">
+  <br />
+  <h3>🥂 사용자 기호 맞춤 주류 추천 서비스 🥂</h3>
+    <div>
+     ✨ <a href="https://pinto-bakery-023.notion.site/SunJoo-c2dc53ede1d74825b0fa53f82d97b6aa?pvs=4">팀 노션</a>
+  </div>
+  <br />
+</div> 
+
+
+### 📜 목차
+---
+1. [**프로젝트 일정**](#1)
+2. [**서비스 소개**](#2)
+3. [**주요 기능**](#3)
+4. [**기술 스택**](#4)
+5. [**산출물**](#5)
+6. [**팀원 소개**](#6)
+<br><br>
+
+<div id="1"></div>
 
 ### 🗓️ 프로젝트 일정
 ---
 - 일정: 2024년 5월 28일 - 2024년 7월 7일 (6주)
-<br>
+<br><br>
+
+<div id="2"></div>
 
 ### 🔎 서비스 소개
 ---
-🥂 사용자 기호 맞춤 주류 추천 서비스 🥂
-
 Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해드리는 서비스입니다. 
 
 간단한 텍스트 입력을 통해 사용자의 현재 감정을 분석하고, 그 결과를 바탕으로 적합한 주류를 추천해드립니다. 
@@ -19,6 +38,8 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
 <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu?tab=readme-ov-file">Bejuryu(version 1) repository</a>
 
 <br>
+
+<div id="3"></div>
 
 ### 🔎 주요 기능
 ---
@@ -28,6 +49,8 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
 - 맞춤형 피드백: 추천된 주류에 대한 사용자의 피드백을 받아 더욱 정교한 추천을 제공하도록 서비스가 지속적으로 개선됩니다.
 
 <br>
+
+<div id="4"></div>
 
 ### ⚒️ 기술 스택
 ---
@@ -56,21 +79,47 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
     <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
     <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 
+
+<div id="5"></div>
+
 ### 📜 산출물
 ---
 **🖋️아키텍처 구조도**
 
-<img src="image/architecture.png" width="500">
+<img src="image/architecture.png" width="500"> <br>
 
 
 **🖋️ERD**
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e780868e-ded3-4b80-a1d4-6f4ff57e7d25" width="200px;" height="250px;"  alt=""/><br /><sub><b>Analysis-Result</b></sub><br /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/0a1800b1-fa2c-4572-809e-6e5878791927" width="200px;" height="250px;" at=""/><br /><sub><b>User</b></sub><br /></td>
+  </tr>
+</table>
+<table>
 
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/346248aa-2258-4f29-b02a-d267ed62cabd" width="400px;" alt=""/><br /><sub><b>Drinktionary</b></sub><br /></td>
+    
+  </tr>
 
+</table>
 
+**🖋️주요 기능 결과 화면**
+- **주류 리뷰 작성** <br>
+<img src="https://github.com/user-attachments/assets/f979fed4-53e5-43a7-8ba9-15fda4732938" alt=""/> <br><br>
+- **주류 추천** <br>
+<img src="https://github.com/user-attachments/assets/f979fed4-53e5-43a7-8ba9-15fda4732938" alt=""/> <br><br>
+ <u>Naver clova</u>를 활용하여 사용자가 입력한 텍스트를 분석하여 맞춤 주류를 추천해준다.
+ <br><br>
+
+<div id="6"></div>
 
 ### 👥팀원 소개
+> sunjoo는 **총 2명의 팀원**으로 구성되어 있습니다 😊 <br>
+수행 역할 상세 내용은 [팀 노션 페이지](https://pinto-bakery-023.notion.site/57025d050dc34ce5af2c95b03c8b3502?pvs=4)에서 확인하실 수 있습니다!
 
-
+<br>
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
