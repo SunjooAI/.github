@@ -79,7 +79,7 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
     <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
     <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 
-
+<br>
 <div id="5"></div>
 
 ### 📜 산출물
@@ -107,7 +107,7 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
 
 **🖋️주요 기능 결과 화면**
 - **주류 리뷰 작성** <br>
-<img src="https://github.com/user-attachments/assets/f979fed4-53e5-43a7-8ba9-15fda4732938" alt=""/> <br><br>
+<img src="https://github.com/user-attachments/assets/8fba8a4f-ae1c-4fa4-81a4-6ba73bfd4bbb" alt=""/> <br><br>
 - **주류 추천** <br>
 <img src="https://github.com/user-attachments/assets/f979fed4-53e5-43a7-8ba9-15fda4732938" alt=""/> <br><br>
  <u>Naver clova</u>를 활용하여 사용자가 입력한 텍스트를 분석하여 맞춤 주류를 추천해준다.
