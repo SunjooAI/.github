@@ -71,7 +71,6 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
      <img src="https://img.shields.io/badge/Github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
     <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=Amazon ec2&logoColor=white">
     <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white">
-    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 - **DataBase**
 
