@@ -130,13 +130,18 @@ Sunjoo는 사용자의 기분과 기호에 맞춰 최적의 주류를 추천해�
 
   </tr>
     <tr>
-    <td align="center">프론트엔드</td>
-    <td align="center">프론트엔드</td>
+    <td align="center">Frontend</td>
+    <td align="center">Frontend</td>
   </tr>
   </tr>
-    <tr>
-    <td align="center">백엔드</td>
-    <td align="center">백엔드</td>
+<tr>
+    <td align="center">Backend</td>
+    <td align="center">Backend</td>
+
+  </tr>
+  <tr>
+    <td align="center">Infra</td>
+    <td align="center"></td>
 
   </tr>
 </table>
